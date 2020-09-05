@@ -9,6 +9,8 @@ Financial accounting (or financial accountancy) is the field of accounting conce
 
 ![Accounting Services]({{site.baseurl}}/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
+![Accounting Services](https://res.cloudinary.com/imgservd/image/upload/c_scale,fl_progressive,w_950/v1598833964/austin-distel-nGc5RT2HmF0-unsplash_m8xacb.jpg)
+
 # Objectives 
 
 Financial accounting and financial reporting are often used as synonyms.
