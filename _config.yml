@@ -35,13 +35,13 @@ seo:
 collections:
   pages:
     output: true
-    permalink: /:path/
+    permalink: /:path
   services:
     output: true
-    permalink: /services/:path/
+    permalink: /services/:path
   team:
     output: true
-    permalink: /team/:path/
+    permalink: /team/:path
 
 defaults:
   - scope:
