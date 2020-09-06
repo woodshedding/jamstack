@@ -57,7 +57,7 @@ Cash Inflow | Outflow | Opening Balance
 **Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
 
 * Cash inflow: $20
-* Cash outflow:$7
+* Cash outflow: $9
 * Opening balance: $5
 * Closing balance: $20 – $7 + $5 = $18
 

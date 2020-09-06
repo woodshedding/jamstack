@@ -1,5 +1,14 @@
 baseurl: '/jamstack'
-exclude: ['README.md']
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - src
+  - README.md
+  - package.json
+  - webpack.dev.js
+  - webpack.prod.js
+  - yarn.lock
 permalink: pretty
 title: 'Just another Wordpress site.'
 
@@ -24,12 +33,15 @@ seo:
   meta_twitter_creator: "@zerostaticio"
 
 collections:
+  pages:
+    output: true
+    permalink: /:path
   services:
     output: true
-    permalink: /services/:path/
+    permalink: /services/:path
   team:
-    output: true
-    permalink: /team/:path/
+    output: false
+    permalink: /team/:path
 
 defaults:
   - scope:
@@ -43,6 +55,7 @@ defaults:
       image: true
 
 sass:
+  sass_dir: src/sass
   style: compact # possible values: nested expanded compact compressed
 
 plugins:
