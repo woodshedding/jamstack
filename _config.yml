@@ -35,12 +35,12 @@ seo:
 collections:
   pages:
     output: true
-    permalink: /:name
+    permalink: :path
   services:
     output: true
     permalink: /services/:name
   team:
-    output: false
+    output: true
     permalink: /team/:name
 
 defaults:
